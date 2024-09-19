@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "hb+SpmUryf13/6M7bh1yvuGUSaAv2gYgKuOk8C/1Pxk=",
+  "Source": "azure-demo",
+  "BasePath": "_content/azure-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\azure-demo.styles.css",
+      "SourceId": "azure-demo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/azure-demo",
+      "RelativePath": "azure-demo.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\azure-demo.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\azure-demo.bundle.scp.css",
+      "SourceId": "azure-demo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/azure-demo",
+      "RelativePath": "azure-demo.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\azure-demo.bundle.scp.css"
+    }
+  ]
+}
