@@ -41,3 +41,4 @@ C:\Users\ADMIN\Source\Repos\azure-demo\azure-demo\obj\Debug\net7.0\refint\azure-
 C:\Users\ADMIN\Source\Repos\azure-demo\azure-demo\obj\Debug\net7.0\azure-demo.pdb
 C:\Users\ADMIN\Source\Repos\azure-demo\azure-demo\obj\Debug\net7.0\azure-demo.genruntimeconfig.cache
 C:\Users\ADMIN\Source\Repos\azure-demo\azure-demo\obj\Debug\net7.0\ref\azure-demo.dll
+C:\Users\ADMIN\Source\Repos\azure-demo\azure-demo\obj\Debug\net7.0\azure-demo.sourcelink.json

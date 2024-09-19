@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09ac16a6b5c195d1cea8407d4e16935bef7c0bc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

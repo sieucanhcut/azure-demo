@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D60ED3E-B666-4D8A-BD7E-77583E06D7E9}|azure-demo\\azure-demo.csproj|c:\\users\\admin\\source\\repos\\azure-demo\\azure-demo\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60ED3E-B666-4D8A-BD7E-77583E06D7E9}|azure-demo\\azure-demo.csproj|solutionrelative:azure-demo\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D60ED3E-B666-4D8A-BD7E-77583E06D7E9}|azure-demo\\azure-demo.csproj|c:\\users\\admin\\source\\repos\\azure-demo\\azure-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D60ED3E-B666-4D8A-BD7E-77583E06D7E9}|azure-demo\\azure-demo.csproj|solutionrelative:azure-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -47,14 +51,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\Class.cs",
+              "RelativeDocumentMoniker": "azure-demo\\Class.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\Class.cs",
+              "RelativeToolTip": "azure-demo\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:59:29.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\Program.cs",
               "RelativeDocumentMoniker": "azure-demo\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Source\\Repos\\azure-demo\\azure-demo\\Program.cs",
               "RelativeToolTip": "azure-demo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:36:22.477Z",
+              "WhenOpened": "2024-09-19T13:59:04.212Z",
               "EditorCaption": ""
             }
           ]
